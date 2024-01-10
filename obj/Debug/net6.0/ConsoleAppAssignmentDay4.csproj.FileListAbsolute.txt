@@ -1,0 +1,14 @@
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\bin\Debug\net6.0\ConsoleAppAssignmentDay4.exe
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\bin\Debug\net6.0\ConsoleAppAssignmentDay4.deps.json
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\bin\Debug\net6.0\ConsoleAppAssignmentDay4.runtimeconfig.json
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\bin\Debug\net6.0\ConsoleAppAssignmentDay4.dll
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\bin\Debug\net6.0\ConsoleAppAssignmentDay4.pdb
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\obj\Debug\net6.0\ConsoleAppAssignmentDay4.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\obj\Debug\net6.0\ConsoleAppAssignmentDay4.AssemblyInfoInputs.cache
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\obj\Debug\net6.0\ConsoleAppAssignmentDay4.AssemblyInfo.cs
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\obj\Debug\net6.0\ConsoleAppAssignmentDay4.csproj.CoreCompileInputs.cache
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\obj\Debug\net6.0\ConsoleAppAssignmentDay4.dll
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\obj\Debug\net6.0\refint\ConsoleAppAssignmentDay4.dll
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\obj\Debug\net6.0\ConsoleAppAssignmentDay4.pdb
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\obj\Debug\net6.0\ConsoleAppAssignmentDay4.genruntimeconfig.cache
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY4\ConsoleAppAssignmentDay4\ConsoleAppAssignmentDay4\obj\Debug\net6.0\ref\ConsoleAppAssignmentDay4.dll
